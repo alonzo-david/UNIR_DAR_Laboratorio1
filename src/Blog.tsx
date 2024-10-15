@@ -148,7 +148,7 @@ function Blog() {
               />
               <CardContent>
                 <Typography gutterBottom variant="h5" component="div">
-                  Kawasaki Ninja 400
+                  Yamaha MT-03
                 </Typography>
                 <Typography variant="body2" sx={{ color: "text.secondary" }}>
                   La MT03 posee luces LED, brillantes y energéticamente
