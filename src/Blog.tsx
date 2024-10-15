@@ -43,7 +43,7 @@ function Blog() {
   return (
     <Container maxWidth="lg" className={classes.blogContainer}>
       <Typography variant="h4" className={classes.blogTitle}>
-        Acticulos
+        Articulos
       </Typography>
 
       <Grid2 container spacing={3}>
